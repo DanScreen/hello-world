@@ -1,2 +1,3 @@
 # hello-world
-My firs repository
+My first repository
+Just another person teaching himself how to code
